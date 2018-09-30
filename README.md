@@ -64,4 +64,4 @@ Programación orientada a objetos + ATDD
 
 [1]: https://travis-ci.org/
 [3]: https://codecov.io/gh
-[2]: http://bomberman.wikia.com/wiki
+[2]: http://bomberman.wikia.com/wiki/Bagura
