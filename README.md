@@ -54,7 +54,13 @@ Programación orientada a objetos + ATDD
 2. El desarrollo se realiza utilizando la técnica ATDD
 3. A la hora de integrar los cambios de varios desarrolladores, utilizar el flujo de trabajo Feature Branch simulando un repositorio privado (branching model + fork).
 4. Cada cambio necesita ser integrado con la mayor frecuencia posiblie, utilizando para la verificación de este un servicio de CI (Continous Integration).
-5. Implementar [CodCov][3] para medir cobertura del proyecto.
+5. Implementar metrica de cobertura de código para medir cobertura del proyecto.
+
+#### Referencias:
+
+- Servidor de integración continua: [Travis][1]
+- Cobertura de código: [Codcov][3]
+- [Bomberman][2]
 
 [1]: https://travis-ci.org/
 [3]: https://codecov.io/gh
