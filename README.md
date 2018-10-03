@@ -12,13 +12,15 @@ Ejercitar la escritura de código en ambientes colaborativos utilizando una meto
 
 ### Integrantes
 
-Nro | Nombre | Legajo | Mail
-----|--------|--------|------
-1   |        |        |
-2   |        |        |
-3   |        |        |
-4   |        |        |
     
+ Integrantes
+ 
+|Nro| 	Nombre 	              |  Legajo|	Mail                  |
+|---|-------------------------|--------|--------------------------|
+|1 	|	Francisco Perez Ramos | 33586  | franperez21896@gmail.com |
+|2 	|	Jara Tamargo Ivan     | 33389  |ivanjaratamargo@gmail.com |   
+|3 	|	Rodriguez Nicolas	  | 32588  | rodriguez.n@outlook.com  |
+|4 	|	Lucas Avalos          | 33096  | l.e.avalos1@gmail.com    |
 ### Entrega
 
 24 / 10 / 2018
